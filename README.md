@@ -18,4 +18,9 @@ php artisan db:seed --class=SolicitantesSeeder
 php artisan db:seed --class=UserSeeder
 
 
-Leve em conta que o ReCaptcha do Google, precisa de um domínio para funcionar.
+Leve em conta que o ReCaptcha do Google, precisa de um domínio para funcionar, então no projeto não estará em funcionamento
+
+Usuário admin padrão:
+
+email:misasoousa@gmail.com
+senha:12345678
