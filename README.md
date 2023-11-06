@@ -13,8 +13,11 @@ php artisan migrate
 
 As seeds:
 php artisan db:seed --class=SeederPets
+
 php artisan db:seed --class=ImagensSeeder
+
 php artisan db:seed --class=SolicitantesSeeder
+
 php artisan db:seed --class=UserSeeder
 
 
